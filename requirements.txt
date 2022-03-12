@@ -100,7 +100,7 @@ parsimonious==0.8.1
 parso==0.1.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==9.0.1
 pipenv==2018.11.26
 plac==0.9.6
 pluggy==0.13.0
