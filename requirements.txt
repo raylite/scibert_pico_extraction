@@ -88,7 +88,7 @@ nbconvert==5.3.1
 nbformat==4.4.0
 netifaces==0.10.4
 nltk==3.4.5
-numpy==1.17.4
+numpy==1.22.0
 numpydoc==0.9.1
 oauth==1.0.1
 olefile==0.45.1
