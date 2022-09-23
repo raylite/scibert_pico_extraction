@@ -106,7 +106,7 @@ plac==0.9.6
 pluggy==0.13.0
 preshed==2.0.1
 prompt-toolkit==1.0.15
-protobuf==3.10.0
+protobuf==3.18.3
 psutil==5.4.2
 py==1.8.0
 pycairo==1.16.2
